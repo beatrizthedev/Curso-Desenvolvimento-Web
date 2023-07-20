@@ -1,0 +1,38 @@
+<html lang="en">
+<!-- a tag ht ml indica para o editor que esta página será escrita em html e o atributo lang, é utilizado para informar ao navegador qual o idioma que esta página será escrita -->
+
+<head>
+  <!-- cabeçalho, informaçoes para o navegador <-->
+  <!-- meta tags, sao informações adicionais que passamos para o navegador -->
+  <meta charset="utf-8"> <!-- conjunto de caracteres que abrage acentos e etc<-->
+  <!-- quando a imagem vai se adequar a todo tipo de telas <-->
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+
+<body>
+  <!-- corpo da página -->
+  <header>
+    <!-- Teste, cabeçalho do body, nao como um todo, fica no topo da página -->
+  </header>
+  <footer> Footer </footer> <!-- Rodapé, é igual a div e os dois sao em bloco-->
+  <section>seçao</section>
+  <article>Artigo</article> <!-- tag para artigo, no sentido de publicaçao -->
+  <figure> imagem, mas usada como organizaçao, estrutura, como por exemplo organizar a foto dentro dessa tag junto com a descriçao</figure>
+  <img> <!-- imagem -->
+  <h1>
+    <! titulo -->
+      Olá, tudo bem?
+  </h1>
+  <h2>Olá, tudo bem?</h2> <!-- 2 titulo -->
+  <h3>Olá, tudo bem?</h3>
+  <p> Olá, tudo certo? <span>Espero que sim</span> </p> <!-- parágrafo e span -->
+  <br> <!-- quebra de linha -->
+  <span>Curso de desenvolvimento para web</span> <!-- span texto livre <-->
+  <div>
+    <!-- divisoes da página <-->
+    <span>Fortaleza 2023</span>
+  </div>
+  <span>span dentro da div</span>
+</body>
+
+</html>
