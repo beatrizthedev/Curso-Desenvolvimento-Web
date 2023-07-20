@@ -1,0 +1,21 @@
+<html lang="pt-br">
+<head>
+  <title>Lista de material escolar para 2024</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+  <h1>Ana Beatriz Sousa Pires</h1>
+  <hr>
+  <h2>Material Escolar 2024(básico)</h2>
+  <ul>
+    <li>Lápis</li>
+    <li>Canetas</li>
+    <li>Cadernos</li>
+    <li>Mochilha</li>
+    <li>Estojo</li>
+    <li>Borracha</li>
+    <li>Corretivo</li>
+  </ul>
+</body>
+</html>
